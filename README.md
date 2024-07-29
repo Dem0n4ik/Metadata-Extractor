@@ -16,7 +16,7 @@
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/metadata-extractor.git
+   git clone https://github.com/Dem0n4ik/metadata-extractor.git
    ```
 
 2. **Navigate to the Project Directory**:
